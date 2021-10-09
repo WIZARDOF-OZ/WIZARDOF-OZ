@@ -11,6 +11,9 @@
 - 😄 Pronouns: he/him or she/her
 - ⚡ Fun fact: The world's first programmer was a woman.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WIZARDOF-OZ)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <a href="https://github.com/WIZARDOF-OZ/MusicBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WIZARDOF-OZ&repo=github-MusicBot" />
 </a>
