@@ -15,7 +15,7 @@
 
 ![WIZARDOF-OZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=WIZARDOF-OZ&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WIZARDOF-OZ&exclude_repo=github-readme-stats,WIZARDOF-OZ.github.io)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WIZARDOF-OZ&exclude_repo=github-readme-stats,WIZARDOF-OZ.github.io)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![WIZARDOF-OZ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WIZARDOF-OZ)](https://github.com/anuraghazra/github-readme-stats)
 
