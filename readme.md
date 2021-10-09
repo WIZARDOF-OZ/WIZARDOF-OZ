@@ -17,18 +17,9 @@
 
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WIZARDOF-OZ&exclude_repo=github-readme-stats,WIZARDOF-OZ.github.io)](https://github.com/anuraghazra/github-readme-stats)  -->
 
-[![WIZARDOF-OZ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WIZARDOF-OZ)](https://github.com/anuraghazra/github-readme-stats)
+[![WIZARDOF-OZ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WIZARDOFOZ)](https://github.com/WIZARDOF-OZ/WIZARDOF-OZ)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WIZARDOF-OZ&repo=MusicBot)](https://github.com/WIZARDOF-OZ/MusicBot)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WIZARDOFOZ&repo=)](https://github.com/WIZARDOF-OZ/MusicBot)
-
-
-
-<a href="https://github.com/WIZARDOF-OZ/MusicBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WIZARDOF-OZ&repo=github-MusicBot" />
-</a>
-<a href="https://github.com/WIZARDOF-OZ/Music-Bot-With-Dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WIZARDOF-OZ&repo=Music-Bot-With-Dashboard" />
-</a>
