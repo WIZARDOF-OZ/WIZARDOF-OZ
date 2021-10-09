@@ -22,7 +22,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WIZARDOF-OZ&repo=MusicBot)](https://github.com/WIZARDOF-OZ/MusicBot)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WIZARDOF-OZ&repo=)](https://github.com/WIZARDOF-OZ/MusicBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WIZARDOFOZ&repo=)](https://github.com/WIZARDOF-OZ/MusicBot)
 
 
 
