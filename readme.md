@@ -1,0 +1,19 @@
+<h1 align= "center">Hi 👋 I'm Wizard</h1>
+
+
+
+
+
+- 🔭 I’m currently working on: [Learning Javascript](https://github.com/WIZARDOF-OZ/JavaScript-Learning-)
+- 🌱 I’m currently learning: **Everything Present In The World**
+- 💬 Ask me about : **Anything**
+- 📫 How to reach me: **wizardofoz866@gmail.com**
+- 😄 Pronouns: he/him or she/her
+- ⚡ Fun fact: The world's first programmer was a woman.
+
+<a href="https://github.com/WIZARDOF-OZ/MusicBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WIZARDOF-OZ&repo=github-MusicBot" />
+</a>
+<a href="https://github.com/WIZARDOF-OZ/Music-Bot-With-Dashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WIZARDOF-OZ&repo=convoychat" />
+</a>
