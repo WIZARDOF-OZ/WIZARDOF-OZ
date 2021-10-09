@@ -13,6 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WIZARDOF-OZ)](https://github.com/anuraghazra/github-readme-stats)
 
+![WIZARDOF-OZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=WIZARDOF-OZ&show_icons=true&theme=radical)
 
 <a href="https://github.com/WIZARDOF-OZ/MusicBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WIZARDOF-OZ&repo=github-MusicBot" />
