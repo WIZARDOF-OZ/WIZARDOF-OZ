@@ -1,4 +1,12 @@
-<h1 align= "center">Hi 👋 I'm Wizard</h1>
+<h1 align= "center">Hi There 👋 </h1>
+
+```js
+
+<Quick Introduction>
+
+Hello! I'm Wizard . A Programmer & A Discord Bot Developer .
+
+```
 
 
 
