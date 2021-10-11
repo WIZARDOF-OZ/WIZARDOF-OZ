@@ -33,6 +33,6 @@ Hello! I'm Wizard . A Programmer & A Discord Bot Developer .
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=WIZARDOF-OZ&show_icons=true&locale=en&show_owner=true&count_private=true&theme=radical" alt="wizardof-oz" /></p>
 
- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=wizardof-oz&show_icons=true&locale=en" alt="wizardof-oz" /></p>
+ <!--<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=wizardof-oz&show_icons=true&locale=en" alt="wizardof-oz" /></p>-->
  
 
