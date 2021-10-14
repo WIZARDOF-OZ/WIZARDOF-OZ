@@ -29,7 +29,7 @@ Hello! I'm Wizard . A Programmer & A Discord Bot Developer .
 
 <p><img align="down" src="https://github-readme-stats.vercel.app/api/top-langs?username=WIZARDOF-OZ&show_icons=true&locale=en&layout=compact" alt="wizardof-oz" /></p>
 
-<p>&nbsp; <img align="left" src ="https://github-readme-stats.vercel.app/api/wakatime?username=WIZARDOFOZ" alt="WIZARDOF-OZ"/> </p>
+<p>&nbsp; <img align="left" src ="https://github-readme-stats.vercel.app/api/wakatime?username=WIZARDOF-OZ" alt="WIZARDOF-OZ"/> </p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=WIZARDOF-OZ&show_icons=true&locale=en&show_owner=true&count_private=true&theme=radical" alt="wizardof-oz" /></p>
 
