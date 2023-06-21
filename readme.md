@@ -7,12 +7,12 @@
 Hello! I'm Wizard . A Programmer & A Discord Bot Developer .
 
 ```
+https://discord.c99.nl/widget/theme-2/583666642010112000.png
 
 
 
 
-
-- 🔭 I’m currently working on: [Fatima-Convent-Senior-Secondary-School-Rangia](https://github.com/WIZARDOF-OZ/Fatima-Convent-Senior-Secondary-School-)
+- 🔭 I’m currently working on: [Fatima-Convent-Senior-Secondary-School-Rangia](https://github.com/WIZARDOF-OZ/Fatima-Convent-Senior-Secondary-School-) And [Yoimiya](https://github.com/Akio6265/yoimiya)
 - 🌱 I’m currently learning: **Everything Present In The World**
 - 💬 Ask me about : **Anything**
 - 📫 How to reach me: **wizardofoz866@gmail.com**
