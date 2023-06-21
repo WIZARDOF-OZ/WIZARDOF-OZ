@@ -7,7 +7,7 @@
 Hello! I'm Wizard . A Programmer & A Discord Bot Developer .
 
 ```
-<img src="https://discord.c99.nl/widget/theme-2/583666642010112000.png">
+<img align=center src="https://discord.c99.nl/widget/theme-2/583666642010112000.png">
 
 
 
