@@ -11,13 +11,13 @@ Hello! I'm Wizard . A Programmer & A Discord Bot Developer .
 
 
 
-- 🔭 I’m currently working on: [Fatima-Convent-Senior-Secondary-School-Rangia](https://github.com/WIZARDOF-OZ/Fatima-Convent-Senior-Secondary-School-) And [Yoimiya](https://github.com/Akio6265/yoimiya)
+- 🔭 I’m currently working on: [Fatima-Convent-Senior-Secondary-School-Rangia](https://github.com/WIZARDOF-OZ/Fatima-Convent-Senior-Secondary-School-)
 - 🌱 I’m currently learning: **Everything Present In The World**
 - 💬 Ask me about : **Anything**
 - 📫 How to reach me: **wizardofoz866@gmail.com**
 - ❤ Connect with me on Instagram: [wizardofoz_official](https://www.instagram.com/rizuwanul_official/)
 - ❤ Connect with me on twitter: [WizardOFOz](https://twitter.com/Wizard_OFOZ2345/)
-- 😄 Pronouns: he/him or she/her
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: **The world's first programmer was a woman**.
 
 <h3 align="left">Languages and Tools:</h3>
