@@ -39,13 +39,26 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 ![](https://github-contributor-stats.vercel.app/api?username=WIZARDOF-OZ&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<div align="center">
-  <img 
-    style="max-width: 100%;" 
-    src="https://vercel.app/api/wakatime?username=WIZARDOF-OZ &layout=compact &theme=radical" 
-    alt="WakaTime Stats" 
-  />
-</div>
+
+
+<!--START_SECTION:waka-->
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at the start of every hour 
+    - cron: '0 * * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+         
+<!--END_SECTION:waka-->
 
 
 
