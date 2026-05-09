@@ -1,10 +1,10 @@
-<h1 align= "center">Hi There 👋 </h1>
+<h1 align= "center">Hey! There 👋 </h1>
 
 ```js
 
 <Quick Introduction>
 
-Hello! I'm Wizard . A Programmer & A Discord Bot Developer .
+Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer.
 
 ```
 
@@ -12,7 +12,12 @@ Hello! I'm Wizard . A Programmer & A Discord Bot Developer .
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on: [Fatima-Convent-Senior-Secondary-School-Rangia](https://github.com/WIZARDOF-OZ/Fatima-Convent-Senior-Secondary-School-)<br>- 🌱 I’m currently learning: **Everything Present In The World**<br>- 💬 Ask me about : **Anything**<br>- 📫 How to reach me: **wizardofoz866@gmail.com**<br>- ❤ Connect with me on Instagram: [wizardofoz_official](https://www.instagram.com/rizuwanul_official/)<br>- ❤ Connect with me on twitter: [WizardOFOz](https://twitter.com/Wizard_OFOZ2345/)<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: **The world's first programmer was a woman**.
+- 🔭 I’m currently working on: Nothing LOL
+- <br>- 🌱 I’m currently learning: **Everything Present In The World**<br>- 💬 Ask me about : **Anything**
+<br>- 📫 How to reach me: **wizardthemonster@gmail.com**
+<br>- ❤ Connect with me on Instagram: [wizardofoz.dev](https://www.instagram.com/wizardofoz.dev/)
+<br>- ❤ Connect with me on twitter: [WizardOFOz](https://twitter.com/Wizard_OFOZ2345/)
+<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: **The world's first programmer was a woman**.
 
 
 ## 🌐 Socials:
