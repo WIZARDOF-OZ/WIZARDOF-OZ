@@ -12,7 +12,7 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on: Nothing LOL
+- 🔭 I’m currently working on: [Will_You_Be_My_Girlfriend](https://github.com/WIZARDOF-OZ/Will_You_Be_My_Girlfriend)
 - 🌱 I’m currently learning: **Everything Present In The World**
 - 💬 Ask me about : **Anything**
 - 😄 Pronouns: He/Him
