@@ -39,9 +39,8 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 ![](https://github-contributor-stats.vercel.app/api?username=WIZARDOF-OZ&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p>&nbsp; <img align="left" src ="https://github-readme-stats.vercel.app/api/wakatime?username=WIZARDOFOZ" alt="WIZARDOF-OZ"/> </p>
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
 
 
- <!--<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=WIZARDOF-OZ&show_icons=true&locale=en" alt="wizardof-oz" /></p>-->
- 
 
