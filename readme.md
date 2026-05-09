@@ -15,10 +15,7 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 - 🔭 I’m currently working on: Nothing LOL
 - 🌱 I’m currently learning: **Everything Present In The World**
 - 💬 Ask me about : **Anything**
-- 📫 How to reach me: **wizardthemonster@gmail.com**
-- ❤ Connect with me on Instagram: [wizardofoz.dev](https://www.instagram.com/wizardofoz.dev/)
-- ❤ Connect with me on twitter: [WizardOFOz](https://twitter.com/Wizard_OFOZ2345/)
-- 😄 Pronouns: he/him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: **The world's first programmer was a woman**.
 
 
