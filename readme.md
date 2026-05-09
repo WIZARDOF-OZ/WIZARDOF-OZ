@@ -11,27 +11,32 @@ Hello! I'm Wizard . A Programmer & A Discord Bot Developer .
 
 
 
-- 🔭 I’m currently working on: [Fatima-Convent-Senior-Secondary-School-Rangia](https://github.com/WIZARDOF-OZ/Fatima-Convent-Senior-Secondary-School-)
-- 🌱 I’m currently learning: **Everything Present In The World**
-- 💬 Ask me about : **Anything**
-- 📫 How to reach me: **wizardofoz866@gmail.com**
-- ❤ Connect with me on Instagram: [wizardofoz_official](https://www.instagram.com/rizuwanul_official/)
-- ❤ Connect with me on twitter: [WizardOFOz](https://twitter.com/Wizard_OFOZ2345/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: **The world's first programmer was a woman**.
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png" alt="VisualStudioCode" width="40" height=40"/> </a></p>
+# 💫 About Me:
+- 🔭 I’m currently working on: [Fatima-Convent-Senior-Secondary-School-Rangia](https://github.com/WIZARDOF-OZ/Fatima-Convent-Senior-Secondary-School-)<br>- 🌱 I’m currently learning: **Everything Present In The World**<br>- 💬 Ask me about : **Anything**<br>- 📫 How to reach me: **wizardofoz866@gmail.com**<br>- ❤ Connect with me on Instagram: [wizardofoz_official](https://www.instagram.com/rizuwanul_official/)<br>- ❤ Connect with me on twitter: [WizardOFOz](https://twitter.com/Wizard_OFOZ2345/)<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: **The world's first programmer was a woman**.
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wizardofoz.dev) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kakakawii) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Wizard_OFOZ2345) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wizardthemonster@gmail.com) 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=WIZARDOF-OZ&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=WIZARDOF-OZ&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=WIZARDOF-OZ&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=WIZARDOF-OZ&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-<p><img align="down" src="https://github-readme-stats.vercel.app/api/top-langs?username=WIZARDOF-OZ&show_icons=true&locale=en&layout=compact" alt="wizardof-oz" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=WIZARDOF-OZ&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p>&nbsp; <img align="left" src ="https://github-readme-stats.vercel.app/api/wakatime?username=WIZARDOFOZ" alt="WIZARDOF-OZ"/> </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=WIZARDOF-OZ&show_icons=true&locale=en&show_owner=true&count_private=true&theme=radical" alt="wizardof-oz" /></p>
 
  <!--<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=WIZARDOF-OZ&show_icons=true&locale=en" alt="wizardof-oz" /></p>-->
  
