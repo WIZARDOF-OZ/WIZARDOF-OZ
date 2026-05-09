@@ -12,12 +12,13 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 
 
 # 💫 About Me:
-- <br>🔭 I’m currently working on: Nothing LOL
-- <br> 🌱 I’m currently learning: **Everything Present In The World**<br>- 💬 Ask me about : **Anything**
-- <br> 📫 How to reach me: **wizardthemonster@gmail.com**
-- <br> ❤ Connect with me on Instagram: [wizardofoz.dev](https://www.instagram.com/wizardofoz.dev/)
-- <br> ❤ Connect with me on twitter: [WizardOFOz](https://twitter.com/Wizard_OFOZ2345/)
-- <br> 😄 Pronouns: he/him<br>- ⚡ Fun fact: **The world's first programmer was a woman**.
+- 🔭 I’m currently working on: Nothing LOL
+- 🌱 I’m currently learning: **Everything Present In The World**<br>- 💬 Ask me about : **Anything**
+- 📫 How to reach me: **wizardthemonster@gmail.com**
+- ❤ Connect with me on Instagram: [wizardofoz.dev](https://www.instagram.com/wizardofoz.dev/)
+- ❤ Connect with me on twitter: [WizardOFOz](https://twitter.com/Wizard_OFOZ2345/)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: **The world's first programmer was a woman**.
 
 
 ## 🌐 Socials:
