@@ -41,23 +41,7 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<!--START_SECTION:waka-->
-name: Waka Readme
-
-on:
-  schedule:
-    # Runs at the start of every hour 
-    - cron: '0 * * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-         
+<!--START_SECTION:waka-->       
 <!--END_SECTION:waka-->
 
 
