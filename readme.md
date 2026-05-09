@@ -42,7 +42,7 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 <div align="center">
   <img 
     style="max-width: 100%;" 
-    src="https://vercel.app" 
+    src="https://vercel.app/api/wakatime?username=WIZARDOF-OZ &layout=compact &theme=radical" 
     alt="WakaTime Stats" 
   />
 </div>
