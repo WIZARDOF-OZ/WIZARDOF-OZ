@@ -41,7 +41,80 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<!--START_SECTION:waka-->       
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-432%20hrs%2023%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.3 MB Used in GitHub's Storage 
+ > 
+> 🏆 23 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 47 Public Repositories 
+ > 
+> 🔑 11 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+🌆 Daytime                306 commits         ██████████░░░░░░░░░░░░░░░   38.93 % 
+🌃 Evening                425 commits         ██████████████░░░░░░░░░░░   54.07 % 
+🌙 Night                  35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Tuesday                  145 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Wednesday                88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Thursday                 81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Friday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Saturday                 157 commits         █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+Sunday                   157 commits         █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               15 repos            ███████████░░░░░░░░░░░░░░   44.12 % 
+HTML                     10 repos            ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+CSS                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/WIZARDOF-OZ/WIZARDOF-OZ/master/assets/bar_graph.png)
+
+
+ Last Updated on 09/05/2026 15:15:42 UTC
 <!--END_SECTION:waka-->
 
 
