@@ -42,7 +42,7 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2049%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -60,17 +60,19 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               7 hrs 10 mins       ████████████████████████░   97.27 % 
-HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TypeScript               5 hrs 43 mins       ████████████████████░░░░░   81.87 % 
+Python                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Text                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-will_you_be_my_girlfriend7 hrs 22 mins       █████████████████████████   100.00 % 
+will_you_be_my_girlfriend5 hrs 44 mins       █████████████████████░░░░   82.23 % 
+Fatima-Convent-Senior-Sec1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Fatima-Convent-Senior-Sec9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +92,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WIZARDOF-OZ/WIZARDOF-OZ/master/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2026 18:59:16 UTC
+ Last Updated on 17/05/2026 20:05:39 UTC
 <!--END_SECTION:waka-->
 
 
