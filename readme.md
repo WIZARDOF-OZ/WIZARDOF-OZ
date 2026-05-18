@@ -42,7 +42,7 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-442%20hrs%2025%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -60,19 +60,19 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 43 mins       ████████████████████░░░░░   81.87 % 
-Python                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Text                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+TypeScript               5 hrs 30 mins       ████████████████████░░░░░   81.56 % 
+Python                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Text                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-will_you_be_my_girlfriend5 hrs 44 mins       █████████████████████░░░░   82.23 % 
-Fatima-Convent-Senior-Sec1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Fatima-Convent-Senior-Sec9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+will_you_be_my_girlfriend5 hrs 30 mins       ████████████████████░░░░░   81.60 % 
+Fatima-Convent-Senior-Sec1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Fatima-Convent-Senior-Sec9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +92,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WIZARDOF-OZ/WIZARDOF-OZ/master/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2026 19:29:23 UTC
+ Last Updated on 18/05/2026 21:05:32 UTC
 <!--END_SECTION:waka-->
 
 
