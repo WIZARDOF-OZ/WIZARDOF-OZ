@@ -35,8 +35,6 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=WIZARDOF-OZ&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
