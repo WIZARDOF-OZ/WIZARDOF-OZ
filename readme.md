@@ -40,8 +40,6 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-453%20hrs%2052%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -84,7 +82,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WIZARDOF-OZ/WIZARDOF-OZ/master/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 18:00:37 UTC
+ Last Updated on 07/06/2026 19:41:06 UTC
 <!--END_SECTION:waka-->
 
 
