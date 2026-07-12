@@ -40,7 +40,7 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-478%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-479%20hrs%2039%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -58,13 +58,19 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               26 mins             ██████████░░░░░░░░░░░░░░░   39.74 % 
+Markdown                 20 mins             ████████░░░░░░░░░░░░░░░░░   31.25 % 
+YAML                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  41 mins             ████████████████░░░░░░░░░   62.33 % 
+Antigravity Desktop      25 mins             █████████░░░░░░░░░░░░░░░░   37.67 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+will_you_be_my_girlfriend55 mins             █████████████████████░░░░   84.20 % 
+AIO-Bot                  10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -84,7 +90,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WIZARDOF-OZ/WIZARDOF-OZ/master/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2026 18:55:30 UTC
+ Last Updated on 12/07/2026 20:04:15 UTC
 <!--END_SECTION:waka-->
 
 
