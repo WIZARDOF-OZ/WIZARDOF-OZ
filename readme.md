@@ -58,19 +58,13 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               26 mins             ██████████░░░░░░░░░░░░░░░   39.74 % 
-Markdown                 20 mins             ████████░░░░░░░░░░░░░░░░░   31.25 % 
-YAML                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  41 mins             ████████████████░░░░░░░░░   62.33 % 
-Antigravity Desktop      25 mins             █████████░░░░░░░░░░░░░░░░   37.67 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-will_you_be_my_girlfriend55 mins             █████████████████████░░░░   84.20 % 
-AIO-Bot                  10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +84,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WIZARDOF-OZ/WIZARDOF-OZ/master/assets/bar_graph.png)
 
 
- Last Updated on 19/07/2026 18:55:58 UTC
+ Last Updated on 19/07/2026 20:05:04 UTC
 <!--END_SECTION:waka-->
 
 
