@@ -40,7 +40,9 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-483%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2054%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2042%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -75,6 +77,28 @@ vscode                   1 min               ░░░░░░░░░░░�
 Learning                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 42 mins (29.71%)
+
+✍️ 37 lines written by AI, 226 lines written by hand (14.07% AI-written)
+
+🔤 25,323 Input Tokens, 256 Output Tokens
+
+💵 $0.08 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 30 AI Prompts
+
+Github-Copilot           37 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 14.07% of written lines came from AI
+📝 Concise Prompter — average 329 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🔍 Hands-On Reviewer — 88.29% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -92,7 +116,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WIZARDOF-OZ/WIZARDOF-OZ/master/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 13:34:51 UTC
+ Last Updated on 27/07/2026 16:10:56 UTC
 <!--END_SECTION:waka-->
 
 
