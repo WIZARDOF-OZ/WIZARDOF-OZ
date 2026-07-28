@@ -60,43 +60,36 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 59 mins        █████████████████████░░░░   82.83 % 
-HTML                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+JavaScript               1 hr 18 mins        █████████████████████████   99.71 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 16 mins       ████████████████████████░   94.47 % 
-Antigravity Desktop      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+VS Code                  1 hr 10 mins        ██████████████████████░░░   89.80 % 
+Antigravity Desktop      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
 
 🐱‍💻 Projects: 
-Javascript               2 hrs 20 mins       ████████████████████████░   97.26 % 
-main                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-vscode                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-Learning                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Javascript               1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 mins (29.71%)
+⏱ AI Coding Time: 25 mins (32.53%)
 
-✍️ 37 lines written by AI, 226 lines written by hand (14.07% AI-written)
+✍️ 0 lines written by AI, 129 lines written by hand (0.0% AI-written)
 
-🔤 25,323 Input Tokens, 256 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.08 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 30 AI Prompts
-
-Github-Copilot           37 lines            █████████████████████████   100.00 % 
+🧠 2 AI Sessions, 19 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.07% of written lines came from AI
-📝 Concise Prompter — average 329 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 345 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 88.29% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,7 +109,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WIZARDOF-OZ/WIZARDOF-OZ/master/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 19:13:01 UTC
+ Last Updated on 28/07/2026 21:02:17 UTC
 <!--END_SECTION:waka-->
 
 
