@@ -42,8 +42,6 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2042%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -70,26 +68,6 @@ Antigravity Desktop      7 mins              ███░░░░░░░░�
 
 🐱‍💻 Projects: 
 Javascript               1 hr 18 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 25 mins (32.53%)
-
-✍️ 0 lines written by AI, 129 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 19 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 345 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
