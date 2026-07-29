@@ -42,13 +42,15 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2054%20mins-blue?style=flat)
 
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2042%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-🌆 Daytime                398 commits         ██████████░░░░░░░░░░░░░░░   38.91 % 
-🌃 Evening                540 commits         █████████████░░░░░░░░░░░░   52.79 % 
-🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+🌞 Morning                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+🌆 Daytime                360 commits         ██████████░░░░░░░░░░░░░░░   41.00 % 
+🌃 Evening                458 commits         █████████████░░░░░░░░░░░░   52.16 % 
+🌙 Night                  38 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
 ```
 
 
@@ -70,6 +72,26 @@ Antigravity Desktop      7 mins              ███░░░░░░░░�
 Javascript               1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 25 mins (32.53%)
+
+✍️ 0 lines written by AI, 129 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 19 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 345 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -87,7 +109,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WIZARDOF-OZ/WIZARDOF-OZ/master/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 05:16:02 UTC
+ Last Updated on 29/07/2026 08:26:44 UTC
 <!--END_SECTION:waka-->
 
 
