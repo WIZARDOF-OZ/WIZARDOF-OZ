@@ -42,7 +42,6 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2042%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -72,12 +71,6 @@ VS Code                  22 mins             ███████████�
 🐱‍💻 Projects: 
 C                        18 mins             █████████████████████░░░░   82.01 % 
 python notes organiser   3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
