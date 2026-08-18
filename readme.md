@@ -40,9 +40,9 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2031%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -60,24 +60,45 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        13 mins             ███████████████░░░░░░░░░░   60.11 % 
-JSON                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-Python                   3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+C                        13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+TSConfig                 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+JSON                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Text                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Git Config               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+VS Code                  55 mins             █████████████████░░░░░░░░   69.28 % 
+Agent                    13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Antigravity Desktop      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
 
 🐱‍💻 Projects: 
-C                        18 mins             █████████████████████░░░░   82.01 % 
-python notes organiser   3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+TypeScript Boiler plate  53 mins             █████████████████░░░░░░░░   66.87 % 
+C                        18 mins             ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+python notes organiser   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+terminals                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 48 mins (60.88%)
+
+✍️ 42 lines written by AI, 8 lines written by hand (84.0% AI-written)
+
+🔤 5,065 Input Tokens, 5,065 Output Tokens
+
+💵 $0.04 Estimated AI Cost This Week
+
+🧠 15 AI Sessions, 25 AI Prompts
+
+Sonnet                   42 lines            █████████████████████████   100.00 % 
+Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 84.0% of written lines came from AI
+📄 Detailed Prompter — average 1,036 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 17.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -97,7 +118,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WIZARDOF-OZ/WIZARDOF-OZ/master/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 19:22:46 UTC
+ Last Updated on 18/08/2026 20:15:28 UTC
 <!--END_SECTION:waka-->
 
 
