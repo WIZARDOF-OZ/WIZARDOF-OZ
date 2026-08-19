@@ -42,7 +42,6 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2031%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -76,29 +75,6 @@ TypeScript Boiler plate  53 mins             ███████████�
 C                        18 mins             ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
 python notes organiser   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
 terminals                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 48 mins (60.88%)
-
-✍️ 42 lines written by AI, 8 lines written by hand (84.0% AI-written)
-
-🔤 5,065 Input Tokens, 5,065 Output Tokens
-
-💵 $0.04 Estimated AI Cost This Week
-
-🧠 15 AI Sessions, 25 AI Prompts
-
-Sonnet                   42 lines            █████████████████████████   100.00 % 
-Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 84.0% of written lines came from AI
-📄 Detailed Prompter — average 1,036 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 17.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
