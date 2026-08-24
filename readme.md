@@ -40,9 +40,9 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2047%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -60,46 +60,46 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-JSON                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Git Config               20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-C                        13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Python                   52 mins             █████████░░░░░░░░░░░░░░░░   36.70 % 
+Git Config               20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+JSON                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+TSConfig                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
 
 🔥 Editors: 
-VS Code                  1 hr 31 mins        █████████████████░░░░░░░░   68.46 % 
-Antigravity Desktop      28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-Agent                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+VS Code                  1 hr 10 mins        ████████████░░░░░░░░░░░░░   49.27 % 
+Antigravity Desktop      59 mins             ██████████░░░░░░░░░░░░░░░   41.09 % 
+Agent                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
 
 🐱‍💻 Projects: 
-TypeScript Boiler plate  1 hr 5 mins         ████████████░░░░░░░░░░░░░   49.02 % 
-python notes organiser   25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-C                        18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Fatima-Convent-Senior-Sec11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-will_you_be_my_girlfriend9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+TypeScript Boiler plate  1 hr 5 mins         ███████████░░░░░░░░░░░░░░   45.59 % 
+Fatima-Convent-Senior-Sec43 mins             ████████░░░░░░░░░░░░░░░░░   30.52 % 
+python notes organiser   21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+will_you_be_my_girlfriend9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+wizard_repo              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 32 mins (69.31%)
+⏱ AI Coding Time: 2 hrs 4 mins (86.75%)
 
-✍️ 42 lines written by AI, 20 lines written by hand (67.74% AI-written)
+✍️ 42 lines written by AI, 13 lines written by hand (76.36% AI-written)
 
 🔤 5,065 Input Tokens, 5,065 Output Tokens
 
 💵 $0.04 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 35 AI Prompts
+🧠 24 AI Sessions, 48 AI Prompts
 
 Sonnet                   42 lines            █████████████████████████   100.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 67.74% of written lines came from AI
-📄 Detailed Prompter — average 813 characters per prompt
+🤖 AI-Driven — 76.36% of written lines came from AI
+📄 Detailed Prompter — average 607 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 34.38% of changed lines were hand-edited
+🚀 High AI Trust — 26.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +119,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WIZARDOF-OZ/WIZARDOF-OZ/master/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 19:23:47 UTC
+ Last Updated on 24/08/2026 20:22:01 UTC
 <!--END_SECTION:waka-->
 
 
