@@ -60,46 +60,42 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   52 mins             █████████░░░░░░░░░░░░░░░░   36.70 % 
-Git Config               20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-JSON                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-TSConfig                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Python                   52 mins             ███████████████░░░░░░░░░░   61.30 % 
+Git Config               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+JSON                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        ████████████░░░░░░░░░░░░░   49.27 % 
-Antigravity Desktop      59 mins             ██████████░░░░░░░░░░░░░░░   41.09 % 
-Agent                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Antigravity Desktop      48 mins             ██████████████░░░░░░░░░░░   56.45 % 
+VS Code                  37 mins             ███████████░░░░░░░░░░░░░░   43.55 % 
 
 🐱‍💻 Projects: 
-TypeScript Boiler plate  1 hr 5 mins         ███████████░░░░░░░░░░░░░░   45.59 % 
-Fatima-Convent-Senior-Sec43 mins             ████████░░░░░░░░░░░░░░░░░   30.52 % 
-python notes organiser   21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-will_you_be_my_girlfriend9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-wizard_repo              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Fatima-Convent-Senior-Sec43 mins             █████████████░░░░░░░░░░░░   51.30 % 
+python notes organiser   17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+TypeScript Boiler plate  11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+will_you_be_my_girlfriend9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+wizard_repo              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 4 mins (86.75%)
+⏱ AI Coding Time: 1 hr 15 mins (88.71%)
 
-✍️ 42 lines written by AI, 13 lines written by hand (76.36% AI-written)
+✍️ 0 lines written by AI, 12 lines written by hand (0.0% AI-written)
 
-🔤 5,065 Input Tokens, 5,065 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.04 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 48 AI Prompts
-
-Sonnet                   42 lines            █████████████████████████   100.00 % 
-Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🧠 9 AI Sessions, 23 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.36% of written lines came from AI
-📄 Detailed Prompter — average 607 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 26.32% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 140 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +115,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WIZARDOF-OZ/WIZARDOF-OZ/master/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 19:25:51 UTC
+ Last Updated on 25/08/2026 20:20:46 UTC
 <!--END_SECTION:waka-->
 
 
