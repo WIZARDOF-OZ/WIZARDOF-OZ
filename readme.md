@@ -60,28 +60,26 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   52 mins             ███████████████░░░░░░░░░░   61.30 % 
-Git Config               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-JSON                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Python                   54 mins             ████████████████████░░░░░   81.86 % 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🔥 Editors: 
-Antigravity Desktop      48 mins             ██████████████░░░░░░░░░░░   56.45 % 
-VS Code                  37 mins             ███████████░░░░░░░░░░░░░░   43.55 % 
+Antigravity Desktop      35 mins             █████████████░░░░░░░░░░░░   53.55 % 
+VS Code                  30 mins             ████████████░░░░░░░░░░░░░   46.45 % 
 
 🐱‍💻 Projects: 
-Fatima-Convent-Senior-Sec43 mins             █████████████░░░░░░░░░░░░   51.30 % 
-python notes organiser   17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-TypeScript Boiler plate  11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-will_you_be_my_girlfriend9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-wizard_repo              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Fatima-Convent-Senior-Sec45 mins             █████████████████░░░░░░░░   68.97 % 
+python notes organiser   17 mins             ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+wizard_repo              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+School Website           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 15 mins (88.71%)
+⏱ AI Coding Time: 56 mins (85.44%)
 
 ✍️ 0 lines written by AI, 12 lines written by hand (0.0% AI-written)
 
@@ -89,11 +87,11 @@ wizard_repo              2 mins              █░░░░░░░░░░�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 23 AI Prompts
+🧠 7 AI Sessions, 22 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 140 characters per prompt
+📝 Concise Prompter — average 89 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -115,7 +113,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WIZARDOF-OZ/WIZARDOF-OZ/master/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 18:52:57 UTC
+ Last Updated on 26/08/2026 21:32:46 UTC
 <!--END_SECTION:waka-->
 
 
