@@ -60,40 +60,35 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   54 mins             ████████████████████░░░░░   81.86 % 
-Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Python                   31 mins             ████████████████████████░   96.62 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 🔥 Editors: 
-Antigravity Desktop      35 mins             █████████████░░░░░░░░░░░░   53.55 % 
-VS Code                  30 mins             ████████████░░░░░░░░░░░░░   46.45 % 
+Antigravity Desktop      30 mins             ████████████████████████░   96.00 % 
+VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🐱‍💻 Projects: 
-Fatima-Convent-Senior-Sec45 mins             █████████████████░░░░░░░░   68.97 % 
-python notes organiser   17 mins             ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-wizard_repo              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-School Website           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Fatima-Convent-Senior-Sec32 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 mins (85.44%)
+⏱ AI Coding Time: 32 mins (100.0%)
 
-✍️ 0 lines written by AI, 12 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 22 AI Prompts
+🧠 4 AI Sessions, 13 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 89 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 50 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -113,7 +108,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WIZARDOF-OZ/WIZARDOF-OZ/master/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 21:27:30 UTC
+ Last Updated on 29/08/2026 23:47:42 UTC
 <!--END_SECTION:waka-->
 
 
