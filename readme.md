@@ -40,17 +40,17 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2039%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2047%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-🌆 Daytime                373 commits         ██████████░░░░░░░░░░░░░░░   38.77 % 
-🌃 Evening                504 commits         █████████████░░░░░░░░░░░░   52.39 % 
-🌙 Night                  57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+🌞 Morning                28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+🌆 Daytime                365 commits         ██████████░░░░░░░░░░░░░░░   40.07 % 
+🌃 Evening                470 commits         █████████████░░░░░░░░░░░░   51.59 % 
+🌙 Night                  48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 ```
 
 
@@ -60,13 +60,14 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 5 mins              ███████████████░░░░░░░░░░   60.81 % 
+C                        3 mins              ██████████░░░░░░░░░░░░░░░   39.19 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Learning                 9 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -92,7 +93,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WIZARDOF-OZ/WIZARDOF-OZ/master/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 18:47:34 UTC
+ Last Updated on 06/09/2026 20:59:45 UTC
 <!--END_SECTION:waka-->
 
 
