@@ -40,9 +40,9 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2034%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -60,20 +60,44 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 5 mins              ███████████████░░░░░░░░░░   60.81 % 
-C                        3 mins              ██████████░░░░░░░░░░░░░░░   39.19 % 
+JSON                     44 mins             ███████████████░░░░░░░░░░   59.20 % 
+C                        20 mins             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+VS Code                  48 mins             ████████████████░░░░░░░░░   63.75 % 
+Copilot CLI              24 mins             ████████░░░░░░░░░░░░░░░░░   31.89 % 
+Antigravity Desktop      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 🐱‍💻 Projects: 
-Learning                 9 mins              █████████████████████████   100.00 % 
+will_you_be_my_girlfriend47 mins             ████████████████░░░░░░░░░   62.59 % 
+Learning                 28 mins             █████████░░░░░░░░░░░░░░░░   37.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 47 mins (62.59%)
+
+✍️ 131 lines written by AI, 171 lines written by hand (43.38% AI-written)
+
+🔤 146,693 Input Tokens, 21,172 Output Tokens
+
+💵 $4.64 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 7 AI Prompts
+
+Code                     131 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 43.38% of written lines came from AI
+📝 Concise Prompter — average 60 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 56.91% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,7 +117,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WIZARDOF-OZ/WIZARDOF-OZ/master/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 20:23:09 UTC
+ Last Updated on 07/09/2026 23:14:15 UTC
 <!--END_SECTION:waka-->
 
 
