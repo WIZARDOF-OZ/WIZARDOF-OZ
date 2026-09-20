@@ -37,15 +37,4 @@ Welcome to my readme profile! I'm Wizard, a Programmer & a Discord bot developer
 
 
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/WIZARDOF-OZ/WIZARDOF-OZ/master/assets/bar_graph.png)
-
-
- Last Updated on 08/09/2026 12:28:50 UTC
-<!--END_SECTION:waka-->
-
-
-
-
 
